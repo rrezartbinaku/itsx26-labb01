@@ -11,4 +11,4 @@ I detta fall äventyras verksamhetens sekretess.
 Skulle angriparen få åtkomst till företagsinformation, mappar, filer så är risken stor att dessa ändras och då är innehållet inte längre korrekt dvs. manipulerat.
 
 # Tillgänglighet
-Om angripare lyckas spärra konton eller i värre fall infektera system så kan användare inte längre komma åt företagets filer och mappar. Användaren stängs ute från företagets system helt enkelt.
+Om angripare lyckas spärra konton eller i värre fall infektera system så kan användare inte längre komma åt företagets filer och mappar. Användaren stängs ute från företagets system helt enkelt
